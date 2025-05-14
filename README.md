@@ -42,9 +42,9 @@
 
 |출시|프로젝트|소개|바로가기|
 |:-:|:-|:-|:-:|
-|<sub>2025.03~</sub> | **🧚 모아요정 V2** | 핫딜 스캔 & 검색 디스코드 봇 | [📎](https://github.com/seondal/Instoolgram) &nbsp;  |
-|<sub>2024.09~2024.12</sub> | **🎳 보으링** | Explosion 볼링동호회 전용 플러터 앱 | [📎](https://github.com/seondal/FilterRecipe) &nbsp; |
-|<sub>2024.03~2024.06</sub> | **🧚 모아요정** | 핫딜 스캔 & 검색 프로그램 | [📎](https://github.com/seondal/PokemonQuiz) &nbsp; |
+|<sub>2025.03~</sub> | **🧚 모아요정 V2** | 핫딜 스캔 & 검색 디스코드 봇 | [📎](https://github.com/seondal/MoaV2) &nbsp;  |
+|<sub>2024.09~2024.12</sub> | **🎳 보으링** | Explosion 볼링동호회 전용 플러터 앱 | [📎](https://github.com/seondal/explosion) &nbsp; |
+|<sub>2024.03~2024.06</sub> | **🧚 모아요정** | 핫딜 스캔 & 검색 프로그램 | [📎](https://github.com/kuuujin/Moafairy) &nbsp; |
 
 
 </div>
