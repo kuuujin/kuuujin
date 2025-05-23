@@ -8,7 +8,7 @@
 
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuuujin&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10" width="500"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuuujin&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10" width="550"/>
 
 <div align="left">
   <h3>MAIN STACK🛠️</h3>
